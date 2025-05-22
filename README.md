@@ -1,2 +1,2 @@
 # mda-project
-Streamlit app
+Shiny app
